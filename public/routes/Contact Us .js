@@ -7,7 +7,7 @@ const Contact = () => {
         <div>
       <Navbar/>
       <Vexoimage headings= 'CONTACT.' text=' Contact VEXO-OH'/>
-      <Form>
+      <Form/>
         <Footer/>
         </div>
     )
